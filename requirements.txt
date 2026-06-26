@@ -1,0 +1,11 @@
+torch
+torchvision
+transformers>=4.45.0
+qwen-vl-utils
+accelerate
+pillow
+streamlit
+pandas
+ultralytics
+mlx-vlm
+sentencepiece

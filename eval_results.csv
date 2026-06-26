@@ -1,0 +1,6 @@
+image_link,ground_truth,normalized_ground_truth,predicted_raw,normalized_prediction,is_exact_match,is_normalized_match,levenshtein_distance,cer,confidence,validation_status,download_success,inference_success,elapsed_seconds,error_message
+https://jkconnect.s3.ap-south-1.amazonaws.com/public/1775725335960-ef9wz.jpg,B3024353325,B3024353325,B325,B325,False,False,7,0.6363636363636364,high,PASS,True,True,28.06,
+https://jkconnect.s3.ap-south-1.amazonaws.com/public/1776406356590-gskrou.jpg,B3039012025,B3039012025,03039012025,03039012025,False,False,1,0.09090909090909091,high,PASS,True,True,28.3,
+https://jkconnect.s3.ap-south-1.amazonaws.com/public/1770447888615-znivtk.jpg,B3040011424,B3040011424,,,False,False,11,1.0,low,SKIPPED,True,True,0.65,
+https://jkconnect.s3.ap-south-1.amazonaws.com/public/1777117015139-rg84nh.jpg,B3017513924,B3017513924,,,False,False,11,1.0,low,SKIPPED,True,True,0.53,
+https://jkconnect.s3.ap-south-1.amazonaws.com/public/1780378406605-k0akac.jpg,B3011831026,B3011831026,,,False,False,11,1.0,low,SKIPPED,True,True,0.63,
